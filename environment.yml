@@ -1,0 +1,8 @@
+name: m-learn
+channels:
+- deafult
+dependencies:
+- python = 3.8
+- pandas
+- requests
+- bs4
